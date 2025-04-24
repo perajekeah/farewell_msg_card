@@ -34,7 +34,7 @@
       prefixUrl: "https://openseadragon.github.io/openseadragon/images/",
       tileSources: {
         type: 'image',
-        url: 'canvas.jpg' // Replace with your image filename
+        url: 'canvas.png' // Replace with your image filename
       },
       gestureSettingsTouch: {
         pinchToZoom: true,
